@@ -1,0 +1,3 @@
+AWS Transit Gateway solves the problem of **"network spaghetti" when an enterprise has dozens of VPCs and on-premises networks that all need to talk to each other.** Manually connecting VPCs via individual peering links quickly becomes impossible to manage at scale. Transit Gateway acts as a centralized cloud router, connecting all of your networks to a single hub to simplify routing and management.
+
+---

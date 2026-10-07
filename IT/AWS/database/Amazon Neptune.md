@@ -1,0 +1,3 @@
+Amazon Neptune solves the problem of **trying to trace complex, multi-layered relationships inside a standard rows-and-columns database.** Queries like "Find friends of friends who bought the same product in a specific location" require massive, inefficient SQL `JOIN` statements that quickly timing out. Neptune is a dedicated graph database optimized to store and navigate billions of highly connected relationships in milliseconds, which is essential for fraud detection engines, social network graphs, and recommendation algorithms.
+
+---

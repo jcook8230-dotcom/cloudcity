@@ -1,0 +1,1 @@
+Amazon EFS solves the problem of **sharing a single file system simultaneously across multiple EC2 instances**. Standard block storage (EBS) can only attach to one server at a time, but EFS provides a managed Network File System (NFS) that lets hundreds of servers read and write to the same files at the same time.

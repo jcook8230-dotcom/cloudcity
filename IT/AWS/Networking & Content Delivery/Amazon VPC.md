@@ -1,0 +1,5 @@
+Amazon VPC (Virtual Private Cloud) solves the problem of **unauthorized access and lack of network control in a public cloud.** Without a VPC, your servers would be directly exposed to the internet.
+
+- **Subnets:** Solve the problem of **mixing public traffic with private data**. Public subnets host internet-facing resources (like load balancers), while private subnets isolate backend servers and databases entirely from the public web.
+- **Security Groups:** Solve the problem of **instance-level security**. They act as a stateful, virtual firewall controlling traffic entering and leaving a specific EC2 instance or resource.
+- **NACLs (Network Access Control Lists):** Solve the problem of **subnet-wide boundary defense**. They act as a stateless firewall controlling traffic at the subnet border, offering a second layer of defense capable of blocking specific IP addresses.

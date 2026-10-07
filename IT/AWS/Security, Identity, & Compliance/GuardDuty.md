@@ -1,0 +1,9 @@
+==**Amazon GuardDuty solves the critical problem of automated threat detection and security monitoring by continuously analyzing foundational data streams—such as VPC Flow Logs, DNS logs, and CloudTrail event logs—using machine learning to spot malicious behavior without requiring manual log audits.**== You can activate and monitor this service inside the [Amazon GuardDuty Console](https://console.aws.amazon.com/route53/) or read technical configuration details in the [Amazon GuardDuty User Guide](https://docs.aws.amazon.com/guardduty/).
+
+Key Operational Problems Solved by GuardDuty
+
+- **Manual Log Analysis Blind Spots:** Solves the problem of security teams drowning in massive volumes of raw log data. Humans cannot realistically read millions of network and API log lines to find an attacker, but GuardDuty processes these streams automatically behind the scenes.
+- **Compromised AWS Credentials:** Solves the risk of stolen access keys going completely unnoticed. GuardDuty flags abnormal API behavior, such as a user calling administrative commands from an unusual foreign country or an unexpected IP address.
+- **Malicious Network Connections:** Solves the challenge of identifying communication with known bad actors. It cross-references your infrastructure traffic against global threat intelligence feeds to spot instances talking to known command-and-control servers or malware distribution sites.
+- **Cryptocurrency Mining and Resource Hijacking:** Solves the expensive problem of attackers breaking into your virtual machines to mine digital currency. GuardDuty instantly detects CPU spikes tied to known mining signatures and malicious domain queries.
+- **Unauthorized Data Exfiltration:** Solves the risk of confidential data leaking out of your environment. It identifies suspicious data-access patterns, such as unusual volumes of data moving out of an [Amazon S3](https://aws.amazon.com/s3/) bucket or an unverified database connection.

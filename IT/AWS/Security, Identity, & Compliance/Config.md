@@ -1,0 +1,8 @@
+==**AWS Config solves the challenge of configuration drift and compliance blindness by continuously recording your AWS resource configurations and evaluating them against internal or regulatory baselines.**== You can manage these rules directly through the [AWS Config Console](https://console.aws.amazon.com/billing/) or review the [AWS Config Developer Guide](https://docs.aws.amazon.com/config/) for syntax guidelines.
+
+Key Operational Problems Solved by AWS Config
+
+- **Configuration Drift:** Solves the problem of **untracked infrastructure changes**. When engineers manually alter a security group rule or turn off encryption on a storage volume, AWS Config captures that exact change in real time, creating an ongoing inventory snapshot.
+- **Compliance Auditing:** Solves the burden of **manual compliance checks**. Instead of running spreadsheets to verify if your resources meet safety standards (like PCI-DSS or HIPAA), AWS Config automates this via **Config Rules** (e.g., checking if all S3 buckets have encryption enabled).
+- **Security Forensics:** Solves the challenge of **reconstructing the timeline of an incident**. Through the **Configuration History**, you can look at a resource and see its exact state at any specific point in the past, showing you precisely when a vulnerability was introduced.
+- **Automated Remediation:** Solves the problem of **delayed response to security policy violations**. You can attach a remediation action (via AWS Systems Manager Automation) to a rule, allowing AWS Config to automatically patch a non-compliant resource—like instantly isolating a misconfigured security group.

@@ -1,0 +1,3 @@
+2. Amazon Lightsail: The "AWS Complexity" Problem
+
+Amazon Lightsail solves the problem of **overwhelming cloud complexity for small projects**. Standard AWS requires you to manually configure VPCs, subnets, security groups, and EBS volumes just to launch a simple website. Lightsail bundles compute, storage, databases, and networking into a single, predictable monthly price with a simplified click-and-launch interface. It is the ideal solution for WordPress blogs, development environments, and small business websites.

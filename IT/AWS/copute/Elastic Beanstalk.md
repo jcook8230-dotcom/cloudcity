@@ -1,0 +1,3 @@
+4. AWS Elastic Beanstalk: The "DevOps Overhead" Problem
+
+Elastic Beanstalk solves the problem of **developers spending too much time setting up infrastructure instead of writing code**. It functions as a Platform-as-a-Service (PaaS). You simply upload your code (Java, .NET, Node.js, Python, etc.), and Beanstalk automatically handles the deployment, load balancing, auto-scaling, and health monitoring. It bridges the gap between full EC2 control and serverless simplicity.

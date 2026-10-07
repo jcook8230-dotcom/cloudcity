@@ -1,0 +1,5 @@
+[[EC2]]
+[[lambda]]
+[[light sail]]
+[[Elastic Beanstalk]]
+[]

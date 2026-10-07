@@ -1,0 +1,12 @@
+==**AWS is responsible for the "security _of_ the cloud,"**== which encompasses the protection, maintenance, and operation of the underlying physical infrastructure, global facilities, hardware, and core virtualization layers that run all AWS services. [[1](https://aws.amazon.com/compliance/shared-responsibility-model/)]
+
+This division of duties is formally defined by the [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/), where AWS handles the environment and infrastructure, while customers remain responsible for what they deploy and configure inside that environment (_security _in_ the cloud_). [[1](https://aws.amazon.com/compliance/shared-responsibility-model/)]
+
+Core Areas of AWS Responsibility
+
+- **Physical Facilities and Data Centers:** Protecting the physical security of buildings, environmental controls (power, industrial cooling), and perimeter access across all global [AWS Regions](https://aws.amazon.com/about-aws/global-infrastructure/) and [Availability Zones](https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/availability-zones.html). [[1](https://trailhead.salesforce.com/content/learn/modules/security-in-aws-cloud/learn-the-aws-shared-responsibility-model)]
+- **Physical Hardware:** Sourcing, maintaining, repairing, and replacing the physical servers, storage disks, routers, and fiber-optic cables that comprise the network. [[1](https://www.youtube.com/watch?v=ESPBBEK-cvo)]
+- **Virtualization and Host Operating Systems:** Operating and patching the hypervisor layer and host operating systems that virtualize raw compute resources (such as [Amazon EC2](https://aws.amazon.com/ec2/)). [[1](https://aws.amazon.com/compliance/shared-responsibility-model/)]
+- **Managed Services Platform Maintenance:** Managing the underlying software, runtime platform, and automated patching for higher-level managed services (such as [Amazon RDS](https://aws.amazon.com/rds/) or [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)) where the customer does not have direct access to the base operating system.
+    
+    [[1](https://aws.amazon.com/compliance/shared-responsibility-model/), [2](https://trailhead.salesforce.com/content/learn/modules/security-in-aws-cloud/learn-the-aws-shared-responsibility-model)]

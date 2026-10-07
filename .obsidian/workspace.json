@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "a5e19117190ef7a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd021578d4b1f488",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6858966136078bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/git hub/git new repository.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git new repository"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0500b77c42da31c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5565de0c3fd78040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9811b4f35ad75d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab3eb436afb8170b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d98c2050f6f10745",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.16668701171875
+  },
+  "right": {
+    "id": "96e839c22d438c48",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9acb8454cf1cb08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2e5d66d4ca9f641",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d01a7044e15da5e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2314642a84b660d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5ce636ea67e5e4eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1cd1389f634c87ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c041ed0623cfab44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IT/git hub/git new repository.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.833251953125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d6858966136078bc",
+  "lastOpenFiles": [
+    "IT/class 8 syliabus.md",
+    "IT/git hub/git new repository.md",
+    "IT/git hub",
+    "IT/CPG_CF_Syllabus_Fall2026.pdf",
+    "IT/CPG_CF_Syllabus_Fall2026.pdf.zmdownload",
+    "IT/files and folder/cloud-without-compromise-hybrid-cloud-for-the-enterprise.pdf",
+    "IT/files and folder/JavaScript for Kids.pdf",
+    "IT/files and folder/JavaScript for Kids.pdf.zmdownload",
+    "IT/files and folder/The Linux Command Line, 2nd Edition.pdf",
+    "IT/files and folder/The Linux Command Line, 2nd Edition.pdf.zmdownload",
+    "IT/files and folder/Python Distilled.pdf",
+    "IT/files and folder/Python Distilled.pdf.zmdownload",
+    "IT/files and folder/books.md",
+    "image 20261005205518.png.md",
+    "IT/files and folder/class links.md",
+    "Pasted image 20261005205518.png",
+    "image_0.md",
+    "IT/intro to AWS/day 1/2. What is AWS/3How AWS services work together.md",
+    "Pasted image 20261005115924.png",
+    "IT/intro to AWS/day 1/2. What is AWS/2service categories.md",
+    "IT/intro to AWS/day 1/2. What is AWS/1Amazon Web Services.md",
+    "IT/intro to AWS/day 2/Untitled.md",
+    "IT/intro to AWS/day 1/map of contents.md",
+    "IT/intro to AWS/day 1/Untitled.md",
+    "IT/intro to AWS/day 1/4. AWS Shared Responsibility Model/map of contents.md",
+    "IT/intro to AWS/day 1/4. AWS Shared Responsibility Model/4Examples of customer vs. AWS responsibilities.md",
+    "IT/intro to AWS/day 1/4. AWS Shared Responsibility Model/3Infrastructure vs. configuration.md",
+    "IT/intro to AWS/day 1/4. AWS Shared Responsibility Model/2What the customer is responsible for.md",
+    "IT/intro to AWS/day 1/4. AWS Shared Responsibility Model/1AWS responsibility.md",
+    "IT/intro to AWS/day 1/3. AWS Global Infrastructure/map of contents.md",
+    "IT/intro to AWS/day 1/3. AWS Global Infrastructure/7Multi-AZ architecture.md",
+    "IT/intro to AWS/day 1/3. AWS Global Infrastructure/6Region selection.md",
+    "IT/intro to AWS/day 1/3. AWS Global Infrastructure/5Points of Presence.md",
+    "IT/intro to AWS/day 1/3. AWS Global Infrastructure/4Edge Location.md",
+    "IT/intro to AWS/day 1/3. AWS Global Infrastructure/3data center.md",
+    "IT/intro to AWS/day 1/3. AWS Global Infrastructure/2Availability Zone.md",
+    "IT/intro to AWS/day 1/3. AWS Global Infrastructure/1Region.md",
+    "IT/intro to AWS/day 1/2. What is AWS/map of contents.md",
+    "Pasted image 20261005104334.png",
+    "Pasted image 20261005103837.png",
+    "Pasted image 20261005103546.png",
+    "Pasted image 20261005103453.png",
+    "Pasted image 20261005103354.png",
+    "Pasted image 20261005102640.png",
+    "Pasted image 20261005103314.png",
+    "Pasted image 20261005103143.png",
+    "Untitled 4.canvas",
+    "Untitled 7.canvas",
+    "Untitled 6.canvas",
+    "Untitled 5.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "IT/AWS/Untitled.canvas"
+  ]
+}

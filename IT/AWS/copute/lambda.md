@@ -1,0 +1,3 @@
+3. AWS Lambda: The "Paying for Idle Servers" Problem
+
+AWS Lambda solves the problem of **maintaining and paying for servers that spend most of their time doing nothing**. Traditional servers run 24/7, costing you money even when no users are active. Lambda introduces **serverless compute**, where your code sits completely dark until triggered by an event (like an API call or an S3 file upload). It scales automatically from zero to tens of thousands of concurrent requests in milliseconds, and you only pay for the exact execution time.

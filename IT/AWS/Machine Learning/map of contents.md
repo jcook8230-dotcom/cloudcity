@@ -1,0 +1,6 @@
+[[Comprehend]]
+[[Lex]]
+[[Polly]]
+[[Rekognition]]
+[[SageMaker]]
+[[Transcribe]]
