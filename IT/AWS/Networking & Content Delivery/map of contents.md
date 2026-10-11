@@ -1,7 +1,7 @@
 [[Amazon Route 53]]
 [[Amazon VPC]]
-[[CloudFront]]
+[[IT/AWS/Networking & Content Delivery/CloudFront]]
 [[Direct Connect
-[[Elastic Load Balancing]]
+[[IT/AWS/Networking & Content Delivery/Elastic Load Balancing]]
 [[Global Accelerator]]
 [[Transit Gateway]]
