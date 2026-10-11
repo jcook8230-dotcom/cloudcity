@@ -1,5 +1,5 @@
-[[EC2]]
-[[lambda]]
+[[IT/AWS/copute/EC2]]
+[[IT/AWS/copute/lambda]]
 [[light sail]]
 [[Elastic Beanstalk]]
 []
