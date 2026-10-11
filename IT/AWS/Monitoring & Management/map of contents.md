@@ -1,7 +1,7 @@
 [[CloudFormation]]
 [[IT/AWS/Monitoring & Management/Config|Config]]
 [[IT/AWS/Monitoring & Management/CloudTrail|CloudTrail]]
-[[CloudWatch]]
+[[IT/AWS/Monitoring & Management/CloudWatch]]
 [[Systems Manager]]
 [[Trusted Advisor]]
 [[X-Ray]]

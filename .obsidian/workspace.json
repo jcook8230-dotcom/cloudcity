@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/git hub/git new repository.md",
+                "file": "IT/intro to AWS/day 4/Monitoring & Auditing/more notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git new repository"
+              "title": "more notes"
             }
           }
         ]
@@ -183,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 324.83331298828125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +198,29 @@
   },
   "active": "51bc9c64caa7ec7b",
   "lastOpenFiles": [
+    "IT/intro to AWS/day 4/Other Security Services/map of contents.md",
+    "IT/intro to AWS/day 4/Monitoring & Auditing/more notes.md",
+    "IT/intro to AWS/day 4/Untitled",
+    "IT/intro to AWS/day 4/Other Security Services/Firewall Manager.md",
+    "IT/intro to AWS/day 4/Other Security Services/Macie.md",
+    "IT/intro to AWS/day 4/Other Security Services/Shield.md",
+    "IT/intro to AWS/day 4/Other Security Services/WAF.md",
+    "IT/intro to AWS/day 4/Other Security Services/Security Hub.md",
+    "IT/intro to AWS/day 4/Other Security Services/Inspector.md",
+    "IT/intro to AWS/day 4/Other Security Services/GuardDuty.md",
+    "IT/intro to AWS/day 4/Other Security Services",
+    "IT/intro to AWS/day 4/Monitoring & Auditing/map of contents.md",
+    "IT/intro to AWS/day 4/Monitoring & Auditing/Config.md",
+    "IT/intro to AWS/day 4/Monitoring & Auditing/CloudTrail.md",
+    "IT/intro to AWS/day 4/Monitoring & Auditing/CloudWatch.md",
     "IT/intro to AWS/day 4/Identity-Based Thinking/Who is trying to do what to which resource.md",
+    "IT/intro to AWS/day 4/Encryption & Security/map of contents.md",
+    "IT/intro to AWS/day 4/Encryption & Security/Encryption in transit.md",
+    "IT/intro to AWS/day 4/Encryption & Security/Encryption at rest.md",
+    "IT/intro to AWS/day 4/Encryption & Security/KMS.md",
+    "IT/git hub/git new repository.md",
+    "IT/intro to AWS/day 4/Monitoring & Auditing",
+    "IT/intro to AWS/day 4/Encryption & Security",
     "2026-10-08.md",
     "IT/intro to AWS/day 4/IAM/map of contents.md",
     "IT/intro to AWS/day 4/Identity-Based Thinking",
@@ -207,34 +229,12 @@
     "IT/intro to AWS/day 4/IAM/MFA.md",
     "IT/intro to AWS/day 4/IAM/Least Privilege.md",
     "IT/intro to AWS/day 4/IAM/permissions.md",
-    "IT/intro to AWS/day 4/IAM/IAM Policy.md",
-    "IT/intro to AWS/day 4/IAM/IAM Role.md",
-    "IT/intro to AWS/day 4/IAM/IAM Group.md",
-    "IT/intro to AWS/day 4/IAM/IAM User.md",
-    "IT/intro to AWS/day 3/AWS Databases/Other database concepts/The Big Decision.md",
     "IT/intro to AWS/day 4/IAM",
-    "IT/intro to AWS/day 4/Untitled.md",
     "IT/intro to AWS/day 4",
-    "IT/intro to AWS/Untitled.md",
-    "IT/intro to AWS/day 3/AWS Databases/Other database concepts/map of contents.md",
-    "IT/intro to AWS/day 3/AWS Databases/Other database concepts/scaling.md",
-    "IT/intro to AWS/day 3/AWS Databases/Other database concepts/Read Replicas.md",
-    "IT/intro to AWS/day 3/AWS Databases/Other database concepts/Multi-AZ.md",
-    "IT/intro to AWS/day 3/AWS Databases/Other database concepts/database backups.md",
-    "IT/intro to AWS/day 3/AWS Databases/Other database concepts/Redshift.md",
-    "IT/intro to AWS/day 3/AWS Databases/Other database concepts/ElastiCache.md",
-    "IT/intro to AWS/day 3/AWS Databases/NoSQL/DynamoDB.md",
     "IT/intro to AWS/day 3/AWS Databases/Other database concepts",
-    "IT/intro to AWS/day 3/AWS Databases/Untitled.md",
-    "IT/intro to AWS/day 3/AWS Databases/Relational/map of contenrts.md",
     "IT/intro to AWS/day 3/AWS Databases/NoSQL",
-    "IT/intro to AWS/day 3/AWS Databases/Relational/Microsoft SQL Server.md",
     "IT/intro to AWS/day 3/AWS Databases/Relational",
-    "IT/intro to AWS/day 3/AWS Databases",
-    "IT/intro to AWS/day 3/Untitled",
     "Pasted image 20261010173531.png",
-    "IT/intro to AWS/day 3/S3",
-    "IT/intro to AWS/day 3",
     "Pasted image 20261010163723.png",
     "Pasted image 20261010163329.png",
     "Pasted image 20261010163214.png",

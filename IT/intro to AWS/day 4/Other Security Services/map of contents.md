@@ -1,0 +1,6 @@
+[[Firewall Manager]]
+[[IT/intro to AWS/day 4/Other Security Services/GuardDuty|GuardDuty]]
+[[IT/intro to AWS/day 4/Other Security Services/Inspector|Inspector]]
+[[Macie]]
+[[IT/intro to AWS/day 4/Other Security Services/Security Hub|Security Hub]]
+[[IT/intro to AWS/day 4/Other Security Services/Shield|Shield]]
