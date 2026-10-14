@@ -11,12 +11,14 @@
             "id": "51bc9c64caa7ec7b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "IT/JavaScript for Kids.pdf"
+                "file": "IT/GCP/build ec2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "JavaScript for Kids"
+              "icon": "lucide-file",
+              "title": "build ec2"
             }
           }
         ]
@@ -81,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 200
   },
   "right": {
     "id": "96e839c22d438c48",
@@ -196,9 +198,18 @@
   },
   "active": "51bc9c64caa7ec7b",
   "lastOpenFiles": [
+    "Pasted image 20261013203522.png",
+    "Pasted image 20261013202641.png",
+    "Pasted image 20261013201955.png",
+    "Pasted image 20261013195150.png",
+    "Pasted image 20261013194918.png",
+    "Pasted image 20261013194747.png",
+    "IT/git hub/files  and directories.md",
+    "IT/GCP/build ec2.md",
+    "IT/git hub/git new repository.md",
+    "IT/JavaScript for Kids.pdf",
     "IT/The Linux Command Line, 2nd Edition.pdf",
     "IT/Python Distilled.pdf",
-    "IT/JavaScript for Kids.pdf",
     "IT/GCP/CPG_CF_Syllabus_Fall2026.pdf",
     "IT/intro to AWS/day 4/Monitoring & Auditing/more notes.md",
     "IT/intro to AWS/day 4/Other Security Services/map of contents.md",
@@ -220,7 +231,6 @@
     "IT/intro to AWS/day 4/Encryption & Security/Encryption in transit.md",
     "IT/intro to AWS/day 4/Encryption & Security/Encryption at rest.md",
     "IT/intro to AWS/day 4/Encryption & Security/KMS.md",
-    "IT/git hub/git new repository.md",
     "IT/intro to AWS/day 4/Monitoring & Auditing",
     "IT/intro to AWS/day 4/Encryption & Security",
     "2026-10-08.md",
@@ -228,21 +238,13 @@
     "IT/intro to AWS/day 4/Identity-Based Thinking",
     "IT/intro to AWS/day 4/IAM/Access Keys.md",
     "IT/intro to AWS/day 4/IAM/Root User.md",
-    "IT/intro to AWS/day 4/IAM/MFA.md",
-    "IT/intro to AWS/day 4/IAM/Least Privilege.md",
     "IT/intro to AWS/day 4/IAM",
-    "IT/intro to AWS/day 4",
     "Pasted image 20261010173531.png",
     "Pasted image 20261010163723.png",
     "Pasted image 20261010163329.png",
     "Pasted image 20261010163214.png",
     "Pasted image 20261010163204.png",
-    "Pasted image 20261010162653.png",
-    "Pasted image 20261010162556.png",
     "Untitled.canvas",
-    "Pasted image 20261005205518.png",
-    "Pasted image 20261005115924.png",
-    "Pasted image 20261005104334.png",
     "Untitled 4.canvas",
     "Untitled 7.canvas",
     "Untitled 6.canvas",
