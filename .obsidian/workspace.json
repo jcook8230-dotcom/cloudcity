@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/GCP/build ec2.md",
+                "file": "IT/git hub/Git log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "build ec2"
+              "title": "Git log"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 333.5
   },
   "right": {
     "id": "96e839c22d438c48",
@@ -198,15 +198,21 @@
   },
   "active": "51bc9c64caa7ec7b",
   "lastOpenFiles": [
+    "IT/git hub/Check the changes.md",
+    "IT/git hub/Git log.md",
+    "IT/git hub/Revert changes.md",
+    "IT/git hub/files  and directories.md",
+    "IT/git hub/git new repository.md",
+    "IT/GCP/build ec2.md",
+    "Pasted image 20261018155151.png",
+    "Pasted image 20261018154505.png",
+    "Pasted image 20261014193138.png",
     "Pasted image 20261013203522.png",
     "Pasted image 20261013202641.png",
     "Pasted image 20261013201955.png",
     "Pasted image 20261013195150.png",
     "Pasted image 20261013194918.png",
     "Pasted image 20261013194747.png",
-    "IT/git hub/files  and directories.md",
-    "IT/GCP/build ec2.md",
-    "IT/git hub/git new repository.md",
     "IT/JavaScript for Kids.pdf",
     "IT/The Linux Command Line, 2nd Edition.pdf",
     "IT/Python Distilled.pdf",
@@ -236,14 +242,8 @@
     "2026-10-08.md",
     "IT/intro to AWS/day 4/IAM/map of contents.md",
     "IT/intro to AWS/day 4/Identity-Based Thinking",
-    "IT/intro to AWS/day 4/IAM/Access Keys.md",
-    "IT/intro to AWS/day 4/IAM/Root User.md",
     "IT/intro to AWS/day 4/IAM",
     "Pasted image 20261010173531.png",
-    "Pasted image 20261010163723.png",
-    "Pasted image 20261010163329.png",
-    "Pasted image 20261010163214.png",
-    "Pasted image 20261010163204.png",
     "Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 7.canvas",

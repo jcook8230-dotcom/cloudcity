@@ -19,5 +19,5 @@ git remote -v
  git commit -M"mesage"
  git push --set-upstream origin update-notes
  
-
+![[Pasted image 20261014193138.png]]
 
