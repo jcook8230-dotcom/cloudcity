@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a79351c59ffdfb32",
+        "id": "9e33931bc6c3d70f",
         "type": "tabs",
         "children": [
           {
-            "id": "51bc9c64caa7ec7b",
+            "id": "67615e949cfa3a94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/git hub/Git log.md",
+                "file": "IT/GCP/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git log"
+              "title": "Untitled"
             }
           }
         ]
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.83331298828125
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,27 +197,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "51bc9c64caa7ec7b",
+  "active": "67615e949cfa3a94",
   "lastOpenFiles": [
-    "IT/git hub/Check the changes.md",
-    "IT/git hub/Git log.md",
-    "IT/git hub/Revert changes.md",
-    "IT/git hub/files  and directories.md",
-    "IT/git hub/git new repository.md",
-    "IT/GCP/build ec2.md",
-    "Pasted image 20261018155151.png",
-    "Pasted image 20261018154505.png",
-    "Pasted image 20261014193138.png",
-    "Pasted image 20261013203522.png",
-    "Pasted image 20261013202641.png",
-    "Pasted image 20261013201955.png",
-    "Pasted image 20261013195150.png",
-    "Pasted image 20261013194918.png",
-    "Pasted image 20261013194747.png",
-    "IT/JavaScript for Kids.pdf",
-    "IT/The Linux Command Line, 2nd Edition.pdf",
-    "IT/Python Distilled.pdf",
+    "Pasted image 20261027192437.png",
+    "Pasted image 20261027192421.png",
+    "Pasted image 20261027192405.png",
+    "Pasted image 20261027191552.png",
+    "Pasted image 20261027191427.png",
+    "IT/git hub/git hub basics.md",
+    "IT/GCP/Untitled.md",
+    "Pasted image 20261027184853.png",
+    "Pasted image 20261027120747.png",
+    "Pasted image 20261027120634.png",
+    "Pasted image 20261027120535.png",
+    "Pasted image 20261027120429.png",
+    "Pasted image 20261027120334.png",
+    "IT/git hub/get bash basics.md",
+    "IT/AWS/instance types.md",
+    "IT/GCP/create instances.md",
+    "IT/GCP/CPG_Cloud Fundamentals_Armageddon_052026.pdf",
     "IT/GCP/CPG_CF_Syllabus_Fall2026.pdf",
+    "IT/GCP/build ec2.md",
+    "IT/git hub/git new repository.md",
+    "IT/cat_commands.txt",
+    "IT/cat_commands.txt.zmdownload",
+    "IT/git hub/Revert changes.md",
+    "IT/git hub/Git log.md",
+    "IT/git hub/files  and directories.md",
+    "IT/git hub/Check the changes.md",
+    "IT/JavaScript for Kids.pdf",
+    "IT/Python Distilled.pdf",
+    "IT/The Linux Command Line, 2nd Edition.pdf",
     "IT/intro to AWS/day 4/Monitoring & Auditing/more notes.md",
     "IT/intro to AWS/day 4/Other Security Services/map of contents.md",
     "IT/intro to AWS/day 4/Untitled",
@@ -233,17 +244,7 @@
     "IT/intro to AWS/day 4/Monitoring & Auditing/CloudTrail.md",
     "IT/intro to AWS/day 4/Monitoring & Auditing/CloudWatch.md",
     "IT/intro to AWS/day 4/Identity-Based Thinking/Who is trying to do what to which resource.md",
-    "IT/intro to AWS/day 4/Encryption & Security/map of contents.md",
-    "IT/intro to AWS/day 4/Encryption & Security/Encryption in transit.md",
-    "IT/intro to AWS/day 4/Encryption & Security/Encryption at rest.md",
-    "IT/intro to AWS/day 4/Encryption & Security/KMS.md",
     "IT/intro to AWS/day 4/Monitoring & Auditing",
-    "IT/intro to AWS/day 4/Encryption & Security",
-    "2026-10-08.md",
-    "IT/intro to AWS/day 4/IAM/map of contents.md",
-    "IT/intro to AWS/day 4/Identity-Based Thinking",
-    "IT/intro to AWS/day 4/IAM",
-    "Pasted image 20261010173531.png",
     "Untitled.canvas",
     "Untitled 4.canvas",
     "Untitled 7.canvas",

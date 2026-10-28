@@ -21,3 +21,4 @@ git remote -v
  
 ![[Pasted image 20261014193138.png]]
 
+![[Pasted image 20261021191721.png]]open in vs code![[Pasted image 20261021192017.png]]  ![[Pasted image 20261021192131.png]]![[Pasted image 20261021194138.png]]![[Pasted image 20261021194313.png]]![[Pasted image 20261021194724.png]]![[Pasted image 20261021200759.png]]
