@@ -97,4 +97,4 @@ And let's look what happened
 
 What we did?
 
-We came back two more commits (~HEAD~2) and we said, this time we want to not only move back, but also we want to remove all changes which were done.
+.touch README.md lab1_notes.md
