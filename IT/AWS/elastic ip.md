@@ -1,0 +1,1 @@
+an elastic Ip address can be set to an instance so every time you run the ec2 instance it will have the same Ip address 
