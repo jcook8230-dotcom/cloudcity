@@ -186,4 +186,4 @@ Provide your instructor:
 
 You are finished when your EC2 sends an ERROR-level test alert, your own Slack workspace receives it in `#balerica-alerts`, and you can explain the flow from `slack.py` to the Incoming Webhook to Slack.
 
-> **Chewbacca's review:** RRRRAAAWWWRRR! The alert arrived. The student has demonstrated basic reading comprehension. The investigation continues.
+> **Chewbacca's review:** RRRRAAAWWWRRR! The alert arrived. The student has demonstrated basic ![[Pasted image 20261107210031.png]]reading comprehension. The investigation continues.
